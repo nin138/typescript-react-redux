@@ -1,4 +1,6 @@
 # Typescript-React-Redux-Saga-Example
+# WARN deprecated and is no longer maintained
+
 [![CircleCI](https://circleci.com/gh/yanokunpei/typescript-react-redux.svg?style=svg)](https://circleci.com/gh/yanokunpei/typescript-react-redux)
 ## Requirement
 - Node
